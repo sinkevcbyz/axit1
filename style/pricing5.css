@@ -1,0 +1,191 @@
+.fullscreen__body{
+    width: 100%;
+    height: 100%;
+    border: 1px solid #E5E5E5;
+    background-color: #E5E5E5;
+}
+.main__body{
+    width: 1170px;
+   
+    margin: 0 auto;
+}
+.pricing__header{
+    width: 1170px;
+    height: 150px;
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 150px;
+text-align: center;
+text-transform: uppercase;
+margin-top: 50px;
+margin-bottom: 40px;
+color: #000000;
+}
+.underline__header{
+width: 170px;
+height: 0px;
+border: 1px solid #EC7979;
+margin-top: -41px;
+margin-left: 500px;
+
+}
+.pricing__lorem{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+text-align: center;
+color: #86878B;
+}
+.flex__cells{
+    width: 1170px;
+    display: flex;
+  justify-content: space-between;
+}
+.pricing__basic__block{
+    display: inline-block;
+    width: 370px;
+    height:510px ;
+    margin-top: 49.94px;
+}
+.basic__cell{
+    width: 366px;
+    height: 56px;
+    background: #333333;
+    border: 2px solid #F5F5F5;
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 56px;
+text-align: center;
+text-transform: capitalize;
+margin-bottom: -31.92px;
+
+
+color: #FFFFFF;
+}
+.price10__cell{
+    width: 366px;
+    height: 96px;
+    background: #333333;
+    border: 2px solid #F5F5F5;
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 96px;
+text-align: center;
+margin-top: 30px;
+margin-bottom: -36px;
+color: #FFFFFF;
+}
+.Free-for-life__cell{
+    width: 366px;
+    height: 46px;
+    background: #333333;
+    border: 2px solid #F5F5F5;
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 46px;
+align-items: center;
+text-align: center;
+    margin-top: 34px;
+color: rgba(255, 255, 255, 0.5);
+}
+.space__cell{
+    width: 366px;
+    height: 46px;
+    background: #FFFFFF;
+border: 2px solid #F5F5F5;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 46px;
+text-align: center;
+text-transform: capitalize;
+
+color: #86878B;
+}
+.pricing__optima__block{
+    display: inline-block;
+    width: 370px;
+    height:510px ;
+    margin-top: 29px;
+     
+
+}
+.optima__cell{
+    width: 366px;
+    height: 56px;
+    background: #333333;
+    border: 2px solid #F5F5F5;
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 56px;
+text-align: center;
+text-transform: capitalize;
+margin-bottom: -31.92px; 
+color: #FFFFFF;   
+
+}
+.price20__cell{
+    width: 366px;
+    height: 96px;
+    background: #333333;
+    border: 2px solid #F5F5F5;
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 96px;
+text-align: center;
+margin-top: 30px;
+margin-bottom: -36px;
+color: #FFFFFF;    
+}
+.pricing__pro__block{
+    display: inline-block;
+    width: 370px;
+    height:510px ;
+    margin-top: 49.94px;
+   
+}
+.pro__cell{
+    width: 366px;
+    height: 56px;
+    background: #333333;
+    border: 2px solid #F5F5F5;
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 56px;
+text-align: center;
+text-transform: capitalize;
+margin-bottom: -31.92px; 
+color: #FFFFFF;  
+}
+.price30__cell{
+    width: 366px;
+    height: 96px;
+    background: #333333;
+    border: 2px solid #F5F5F5;
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 96px;
+text-align: center;
+margin-top: 30px;
+margin-bottom: -36px;
+color: #FFFFFF; 
+}
