@@ -8,15 +8,15 @@
     height: 53.2px;
     display: flex;
     justify-content:space-between;
-    margin: 0 auto;
-
-    
+    margin:0 auto;
+    padding-bottom: 27.8px;
+    padding-top: 35px; 
 }
 .child__contakt__icons{
     width: 53.2px;
     height: 53.2px;
-    margin-top: 35px; 
-    margin-bottom: 27.8px;
+    
+   
 }
 .contact__date{
     width: 1170px;
@@ -29,6 +29,6 @@ line-height: 21px;
 align-items: center;
 text-align: center;
 margin: 0 auto;
-margin-top: 62.8px;
+
 color: rgba(255, 255, 255, 0.5);
 }
