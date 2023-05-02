@@ -1,0 +1,62 @@
+.background__stylish{
+    background-image: url(/axit/pictures/image\ \(2\).png);
+    background-size:cover;
+}
+.background__stylish__opacity{
+   background-image: url(/axit/pictures/bg.png);
+    padding-bottom: 50px;
+}
+.main__block__stylish{
+    width: 1170px;
+    height: 100%;
+    margin: 0 auto;
+    margin-top: 64px;
+}
+.stylish__block{
+    width: 1170px;
+    height: 150px;
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 150px;
+text-align: center;
+text-transform: uppercase;
+margin-top: 50px;
+margin-bottom: 40px;
+color: #FFFFFF;
+}
+.underline__header__stylish{
+    width: 170px;
+    height: 0px;
+    border: 1px solid #FFFFFF;
+    margin-top: -41px;
+    margin-left: 500px;
+}
+.stylish__lorem{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+text-align: center;
+margin-top: 40px;
+margin-bottom: 71px;
+color: #FFFFFF;
+}
+.stylish__download__buttom{
+    width: 370px;
+    height: 58px;
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 58px;
+align-items: center;
+text-align: center;
+text-transform: capitalize;
+margin: 0 auto;
+border: 2px solid #FFFFFF;
+color: #FFFFFF;
+
+}

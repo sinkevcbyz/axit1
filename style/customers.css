@@ -1,0 +1,146 @@
+.fullscreen__body{
+    width: 100%;
+    
+    border: 1px solid #E5E5E5;
+    
+}
+.main__block{
+    width: 1170px;
+    height: 100%;
+    margin: 0 auto;
+}
+.customers__block{
+ width: 1170px;
+ height: 150px;
+ font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 150px;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+margin-top:50px;
+margin-bottom: 40px;
+
+color: #000000;
+}
+.underline__header{
+    width: 170px;
+    height: 0px;
+    border: 1px solid #EC7979;
+    margin-top: -41px;
+    margin-left: 500px;
+}
+.customers__lorem{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+text-align: center;
+color: #86878B;
+}
+.comments__block{
+    width: 1170px;
+    margin-top: 83px;
+    display: flex;
+    justify-content: space-between;
+}
+.comments{
+    display: inline-block;
+width: 370px;
+height: 180px;
+
+
+background: #E2E2E2;
+border-radius: 10px;
+}
+.lorem{
+    width: 370px;
+    height: 105px ;
+    padding-top: 38px;
+    padding-bottom: 37px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+
+color: #86878B;
+}
+.rectangle_block{
+    width: 1170px;
+    
+}
+.rectangle{
+    display: inline-block;
+    margin-left: 70px;
+    border: 15px solid transparent; 
+    border-top: 20px solid #E2E2E2;
+}
+.rectangle2{
+    display: inline-block;
+    margin-left: 370px;
+    border: 15px solid transparent; 
+    border-top: 20px solid #E2E2E2;
+}
+.manager__block{
+    display: flex;
+    justify-content: space-between;
+    width: 1170px;
+    margin-top: 46px;
+   
+}
+.managers__acc{
+
+    width: 369px;
+height: 90px;
+}
+.profile__picture{
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    float: left;
+}
+.text__info{
+display: inline-block ;
+width: 269px;
+height: 90px;
+margin-top: auto;
+margin-left: auto;
+}
+.name__block{
+    
+    width: 269px;
+    height: 54px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 54px;
+    margin-top: 0px;
+    margin-left: 30px;
+    margin-bottom: 15px;
+
+color: #000000;
+}
+.position__block{
+    display:inline-block;
+    width: 270px;
+    height: 21px;
+    margin-left:30px;
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+align-items: center;
+margin-top: 0px ;
+
+color: #000000;
+    
+}

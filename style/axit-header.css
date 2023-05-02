@@ -1,0 +1,53 @@
+.background__axit{
+    width: 100%;
+    height: 75px;
+    background-color: #000000;
+}
+.axit__logo{
+    display: inline-block;
+    margin-left: 115.28px;
+    
+}
+.menu__cintainer__sec{
+    display: inline-block;
+    width: 1170px;
+    height: 75px;
+    margin: 0 auto;
+}
+.menu__container{
+    display: inline-block;
+    width: 570px;
+    height: 75px;
+    margin: 0 auto;
+    vertical-align: top;
+    margin-left: 450px;
+}
+
+.menu__block__onion{
+    display: inline-block;
+    width: 570px;
+    height: 75px;
+    margin-left: 472px;
+    vertical-align: top;
+}
+.menu__block{
+    display: flex;
+    justify-content: space-between;
+    width: 570px;
+    height: 75px;
+
+}
+.menu__block__items{
+    display: inline-block;
+    width: 114px;
+    height: 75px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 75px;
+    text-align: center;
+text-transform: capitalize;
+
+color: #FFFFFF;
+}

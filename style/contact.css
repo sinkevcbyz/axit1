@@ -1,0 +1,34 @@
+.contact__container{
+    width: 100%;
+    height: 164px;
+    background-color: #000000;
+}
+.parent__container{
+    width: 569px;
+    height: 53.2px;
+    display: flex;
+    justify-content:space-between;
+    margin: 0 auto;
+
+    
+}
+.child__contakt__icons{
+    width: 53.2px;
+    height: 53.2px;
+    margin-top: 35px; 
+    margin-bottom: 27.8px;
+}
+.contact__date{
+    width: 1170px;
+    height: 21px;
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+align-items: center;
+text-align: center;
+margin: 0 auto;
+margin-top: 62.8px;
+color: rgba(255, 255, 255, 0.5);
+}
