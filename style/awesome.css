@@ -1,15 +1,12 @@
 .fullscreen__body{
     height: 100vh;
     width: 100%;
-    border: 1px solid  #E5E5E5;
-    background-color:  #E5E5E5;
 
 }
 .awesome{
+    margin-top: 50px;
     height: 100%;
     width: 1170px;
-    border: 1px solid #E5E5E5;
-    background-color: #E5E5E5;
     margin: 0 auto;
 }
 .awesome__title{
@@ -26,6 +23,7 @@ line-height: 42px;
     height: 0px;
 border: 1px solid #ec7979;
 margin: 0 auto;
+margin-top: -1px;
 }
 .awesome__descriptions{
     display: block;
@@ -35,16 +33,14 @@ padding-top: 40px;
 .awesome__tables{
     margin-top: 40px;
     width: 1168px;
-    border: 1px solid #E5E5E5;
-    background-color: #E5E5E5;
+
 }
 .tables__block{
     display: inline-block;
     margin-left: 2px;
     height: 100%;
     width: 382px;
-    border: 1px solid #E5E5E5;
-    background-color: #E5E5E5;
+   
 }
 .tables__picture{
     margin-left: 100px;
@@ -72,4 +68,5 @@ align-items: center;
 text-align: center;
 
 color: #000000;
+margin-bottom: 58px;
 }
