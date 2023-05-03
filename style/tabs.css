@@ -77,6 +77,8 @@ color: #333333;
     border-left: 1px solid #C6CBCD;
     border-right: 1px solid #C6CBCD;
     margin-bottom: 79.88px;
+    display: flex;
+    justify-content: space-between;
 }
 .tabs__content__left{
     display: inline-block;
@@ -89,6 +91,7 @@ color: #333333;
     width: 470px;
     height: 500px;
     float: right;
+   
 }
 .tabs__content__header{
     display: inline-block;
