@@ -1,13 +1,14 @@
+body { margin: 0; }
 .background__modern{
     width: 100%;
-    height: 100%;
-    background-image: url(/axit/pictures/image\ \(3\).png);
+    height: 961px;
+    background-image: url(../pictures/image\ \(3\).png);
     background-size:cover;
 }
 .opacity__modern{
     width: 100%;
     height: 100%;
-    background-image: url(/axit/pictures/bg.png);
+    background-image: url(../pictures/bg.png)
 }
 .modern__left__block{
     width: 1170px;
@@ -74,6 +75,8 @@ font-size: 18px;
 line-height: 58px;
 text-align: center;
 text-transform: capitalize;
+background: none;
+cursor:pointer;
 
 color: #FFFFFF;
 }
@@ -116,17 +119,12 @@ flex-direction: column;
 font-style: normal;
 font-weight: 400;
 font-size: 14px;
-line-height: 19px;
-line-height:normal;
+line-height: 35px;
 align-items: center;
 color: #BDBDBD;
 border:none;
 border-bottom: 1px solid #BDBDBD;
-padding-bottom: 16px;
 width: 366px;
-padding-top: 0px;
-padding-left: 0px;
-margin-bottom: 2px;
 }
 .text-field__container__buttom{
     width: 470px;
